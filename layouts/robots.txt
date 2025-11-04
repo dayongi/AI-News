@@ -4,8 +4,8 @@ User-agent: *
 Disallow: /cdn-cgi/
 
 # 新增：不允许抓取 /en 和 /ja 目录
-Disallow: /en/
-Disallow: /ja/
+# Disallow: /en/
+# Disallow: /ja/
 
 # 站点地图
 Sitemap: https://ai.hubtoday.app/sitemap.xml
