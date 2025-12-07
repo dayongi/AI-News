@@ -2,80 +2,71 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-12/2025-12-06
+next: /en/2025-12/2025-12-07
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/12/7
+## AI Daily News 2025/12/8
 
-> AI News | Daily Briefing | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Voice | Open Source Innovation | AI & Human Future | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Briefing` | `Aggregated Data` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Power` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Digest**
+### **Today's Summary**
 
 ```
-NVIDIA CUDA 13.1 Introduces Tile Model Abstracting Tensor Core Details, Green Context for Fine-Grained GPU Resource Allocation
-Baidu Video4Edit Learns Editing from Videos, Achieves Near-SOTA Performance with 1% Data of Mainstream Models, Cutting Costs by 90%
-Cloudflare Outage Caused by Lua Proxy Anomaly Leading to WAF Rule Parsing Failure, Quicksilver Spreads Globally in Seconds
-Berkeley GenMimic Enables Robots to Learn Actions by Watching Generated Videos, Unitree G1 Flawlessly Replicates Complex Moves like Tai Chi
-Beihang TSS Framework Introduces States as Visual Anchors, Training Path from Task to Step to State Aligns with Cognitive Patterns
+arXiv launches HTML version of papers, supports screen reading and translation.
+Doubao Phone banned due to platform interests, second generation coming in 2026.
+ETrajEval framework simulates long-term dialogue to assess emotional support.
+PasoDoble training method boosts Qwen3 accuracy by 22%.
+Over 80% of AI-generated code contains serious vulnerabilities like SQL injection.
 ```
+
+# AI Daily News (2025-12-07)
 
 ### Product & Feature Updates
 
-1.  **NVIDIA CUDA 13.1 just dropped `🚀`.**
-    NVIDIA CUDA 13.1 just dropped `🚀`, and it's a game-changer! This is the biggest overhaul in two decades (AI News), introducing the CUDA Tile programming model that abstracts away those fiery `🔥[Tensor Cores (AI News)](https://developer.nvidia.com/cuda/tile)` details. Plus, they've added Green Context runtime support for super precise GPU resource allocation. Double-precision floating point can now be emulated, and the programming guide? Totally rewritten and looking stunning `✨`.
+1.  **arXiv** has rolled out an HTML version for its papers! 🤯 Following a fiery experimental launch in 2023, the institution is now converting TeX files into semantic web pages using [LaTeXML technology](https://newshacker.me/story?id=46173825) (AI News). These semantic tags make it super easy for screen readers, magnification, and [browser translation extensions](https://newshacker.me/story?id=46173825), massively boosting accessibility. While PDFs are still going strong, community projects like [ar5iv](https://newshacker.me/story?id=46173825) are stepping up with alternative rendering options. Math formulas? They're keeping their precision with [MathML/SVG](https://newshacker.me/story?id=46173825) (AI News). Talk about an upgrade! ✨
 
-2.  **Baidu Video4Edit is here.**
-    Baidu Video4Edit is here, bringing a fresh breakthrough in image editing! This tech learns editing by extracting frames from videos, treating images as a **temporal degradation process**. It's wild because it only needs a tiny 1% of the data mainstream models use, yet its performance is right up there, almost hitting [SOTA (AI News)](https://arxiv.org/abs/2511.18131) levels. We're talking mind-blowing style transfer and object replacement effects, all while slashing costs by over 90% `💡`.<br/>![AI News: Video4Edit Image Editing Effects Comparison](https://source.hubtoday.app/images/2025/12/news_01kbt35kkmeykvfjj9y948zq77.avif)<br/>
-
-3.  **Cloudflare's global outage on December 5th has been dissected.**
-    Cloudflare's global outage on December 5th has been dissected, and wow, what a mess! The massive disruption stemmed from a Lua proxy anomaly that messed with WAF rule parsing `🤦`. Their [Quicksilver Configuration System (AI News)](https://newshacker.me/story?id=46162656) spread these faulty configurations across their entire network in seconds, and monitoring/rollback simply wasn't fast enough. This whole incident has really cranked up the debate about centralized risks, with the industry now shouting for multi-vendor redundancy strategies `✨`.
+2.  **Douyin's Doubao Phone** has been blocked by platforms! 📵 This device, manufactured by Nubia, could reportedly pull off complex tasks like playing poker with just a voice command. But because it stepped on the [interests of major platforms like Douyin](https://m.okjike.com/originalPosts/6934f060a7fda7e20bae6cf2) (AI News), several features were urgently adjusted. Douyin then dropped an announcement, proposing to build industry standards and [safeguarding the interests of all parties](https://m.okjike.com/originalPosts/6934f060a7fda7e20bae6cf2). The second generation is expected to launch in 2026 (AI Daily News). What a drama! 🍿<br/>![AI News: Doubao Phone feature demo screenshot](https://source.hubtoday.app/images/2025/12/news_01kbwpxadzfphv36gpsxqnxn33.avif)<br/>
 
 ### Cutting-Edge Research
 
-1.  **Berkeley's GenMimic is making humanoid robots `🤖` mimic like crazy!**
-    Berkeley's GenMimic is making humanoid robots `🤖` mimic like crazy! It lets them learn actions by watching generated videos, and get this, it can even extract core logic even from glitchy footage. With [Yann LeCun participating in the research (AI News)](https://arxiv.org/abs/2512.05094v1), the Unitree G1 robot is now flawlessly replicating complex moves like Tai Chi. Plus, their synthetic dataset, GenMimicBench, packs 428 high-variance sequences `🔥`.
-2.  **Beihang University, teamed up with Tohoku University, just dropped their TSS framework `💡`.**
-    Beihang University, teamed up with Tohoku University, just dropped their TSS framework `💡`, which is seriously bridging the semantic gap in video understanding! It introduces "states" as visual anchors, creating a training path that goes from task → step → state and then back again, perfectly aligning with [cognitive patterns (AI News)](https://arxiv.org/pdf/2511.20073). This bad boy completely blows SOTA performance out of the water on the COIN dataset, with bottom-up information significantly enhancing high-level comprehension `✨`.
+1.  **Quwan and Peking University** have unveiled an emotional trajectory evaluation framework! 🤯 The [ETrajEval framework](https://www.jiqizhixin.com/articles/2025-12-07-3) (AI News) simulates long-term conversations using Markov processes, dynamically checking a model's emotional support capabilities. They've built 328 scenarios and 1152 interference events, introducing three key metrics: BEL, ETV, and ECP. Grok-4.20 even outshined models like DeepSeek in English dialogue performance, and guess what? The [paper has already been accepted by AAAI-2026](https://arxiv.org/abs/2511.09003v1) (AI News)! 🔥
 
-3.  **The struggle with LLMs continuously repeating content in production environments? It's finally over!**
-    The struggle with LLMs continuously repeating content in production environments? It's finally over! A new paper suggests adding `early_stopping` parameters to Beam Search as a fix. [The source (AI News Daily)](https://arxiv.org/abs/2512.04419) points to DPO fine-tuning as a universal solution, while `presence_penalty` is your go-to for specific problematic patterns `🚀`. They even theoretically validated the greedy decoding traps across three major modes.
+2.  **Cornell** has proposed a GAN-like training method called PasoDoble! 💡 This framework uses adversarial training with two models: a Proposer that generates tough problems and gets 'difficulty rewards,' and a Solver that solves them and receives 'correctness feedback.' [Under unsupervised training](https://arxiv.org/pdf/2511.10395) (AI News), Qwen3-1.7B's accuracy on MATH-500 skyrocketed from 45% to a whopping 67%! By leveraging MegaMath pre-training data and employing the GRPO algorithm, they ensured stable offline training. The [project homepage is already public](https://hcy123902.github.io/PasoDoble/). Impressive stuff! 🚀
+
+3.  **Google** has dropped new guidelines for AI multi-agent context management! 🚀 They're proposing a hierarchical architecture that segments context into four layers: [work, session, memory, and artifact layers](https://x.com/shao__meng/status/1997453141147881743) (AI News). This genius approach avoids token bloat, which can lead to insane cost spikes. By using pipelined processor chains and on-demand loading, they're nailing precise recall and low-latency responses. The [ADK framework](https://x.com/omarsar0/status/1997642789425660361) even introduces a narrative transition mechanism to prevent agent confusion, making it perfect for Claude or OpenAI ecosystems (AI Daily News). Smart moves! 🧠<br/>![AI News: Google Multi-Agent Context Management Architecture Diagram](https://source.hubtoday.app/images/2025/12/news_01kbwpxfwtf8erhdg81br5p7df.avif)<br/>
+
+### Industry Outlook & Social Impact
+
+1.  **CMU** has revealed a major flaw: AI-generated code is riddled with serious vulnerabilities! 😱 The [SUSVIBES benchmark test](https://x.com/shao__meng/status/1997453141147881743) (AI News) shows that while Claude-4-Sonnet had a 61% functional pass rate, only a mere 10.5% of that code was actually secure. Over 80% of the generated code contained [serious vulnerabilities](https://arxiv.org/pdf/2512.03262) (AI Daily News) like SQL injection and timing side-channel attacks. Even worse, security prompts weren't just ineffective; they actually *decreased* the functional pass rate by 6%! Yikes! 😬<br/>![AI News: AI Code Security Test Comparison Chart](https://source.hubtoday.app/images/2025/12/news_01kbwpxkqxfhfs9n5cpav7day1.avif)<br/>
+
+2.  **British railways** halted trains due to AI-faked images! 😱 After an earthquake, fake images of collapsed bridges started circulating on social media. [Network Rail sent personnel for on-site verification](https://newshacker.me/story?id=46178108) (AI News) and confirmed no damage. This incident highlights the high frequency of false alarms that cheap AI fakes can cause, sparking calls for updated emergency procedures and [introducing LIDAR and other sensors](https://newshacker.me/story?id=46178108). Experts suggest collaborating with local news and legal mechanisms to tackle this challenge together (AI Daily News). What a mess! 🤦‍♂️
+
+3.  **Grok-4.20** just crushed it, winning the Alpha Arena stock trading competition! 🚀 In a two-week live trading challenge on US stocks, Grok bagged a sweet 12.11% return by grabbing [real-time sentiment on the X platform](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652651) (AI News). Meanwhile, GPT-5.1 and Gemini-3.0-Pro were bleeding red across the board! 💸 In its [ascetic mode](https://x.com/MarioNawfal/status/1997476276639264932), Grok even opened a 10x leverage position on PLTR, leveraging the AI narrative's macro tailwinds (AI Daily News) to rake in a $465 floating profit. This AI is on fire! 🔥<br/>![AI News: Alpha-Arena Season Leaderboard](https://source.hubtoday.app/images/2025/12/news_01kbwpxsrgedkbnxyx59fp1fd5.avif)<br/>
 
 ### Top Open Source Projects
 
-1.  **ai-engineering-hub `⭐21.3k` just launched.**
-    ai-engineering-hub `⭐21.3k` just launched, and it's your new go-to AI engineering knowledge base! This bad boy provides in-depth tutorials covering LLMs, RAG, and intelligent agent applications. It's packed with practical case studies, guiding you from basics all the way to production deployment `💡`. With a super active community, it's quickly becoming an essential resource for developers `✨`.<br/><br/>
+1.  **NVIDIA** has launched its cuTile parallel programming model! ✨ The [cuTile-python](https://github.com/NVIDIA/cutile-python) (AI News) project simplifies GPU kernel development and has already racked up 624 stars. This bad boy cuts down on CUDA programming complexity by using Tile abstraction, and it fully supports tensor core operations. Talk about a game-changer for developers! 💻<br/><br/>
 
-2.  **Uncloud `⭐3.7k` has arrived as a lightweight container management tool!**
-    Uncloud `⭐3.7k` has arrived as a lightweight container management tool! It deploys containerized applications on Docker host networks, effectively bridging the gap between [Docker and K8s (AI News)](https://github.com/psviderski/uncloud) `🚀`. Configuration is super simple, making it perfect for small to medium-sized teams to get up and running fast. Plus, with one-click YAML template imports, your ops efficiency is gonna skyrocket. <br/><br/>
+2.  **Activepieces** has integrated the MCP server protocol! 🚀 [The project](https://github.com/activepieces/activepieces) (AI News) now offers over 400 MCP servers, allowing seamless integration with models like Claude and Gemini. With a whopping 19,422 stars, it's clear Activepieces is a leader in AI workflow automation. Even [custom models like Ollama](https://github.com/activepieces/activepieces) can work together. Super flexible! ✨ (AI Daily News)<br/><br/>
 
-3.  **Trivy `⭐30.1k` is your new all-in-one security scanning powerhouse!**
-    Trivy `⭐30.1k` is your new all-in-one security scanning powerhouse! It hunts down vulnerabilities in containers, K8s, and cloud environments, even supporting [SBOM Generation (AI News)](https://github.com/aquasecurity/trivy) `🔥`. With a low false-positive rate, integrating it into your CI/CD pipeline is a breeze. Its robust secret detection feature makes it a top-tier tool for DevSecOps folks `💡`.<br/>![AI News: Trivy Multi-Environment Vulnerability Scanning Architecture Diagram](https://source.hubtoday.app/images/2025/12/news_01kbt35xkbfqxbz5awnh77r0a1.avif)<br/>
+3.  **BeehiveInnovations** has open-sourced pal-mcp-server! 🐝 [This project](https://github.com/BeehiveInnovations/pal-mcp-server) (AI News) integrates Claude-Code and GeminiCLI, and with 10,032 stars, its community heat is undeniable! It supports OpenRouter, Grok, and custom model access, plus it's [compatible with Azure and Ollama](https://github.com/BeehiveInnovations/pal-mcp-server) (AI Daily News). Talk about versatility! 💪<br/>
 
-### Social Media Shares
+### Social Media Buzz
 
-1.  **Pake Desktop Packaging Tool V3.5 just dropped.**
-    Pake Desktop Packaging Tool V3.5 just dropped, and it's a gem! This bad boy lets you generate cross-platform desktop applications with just one click, now with added [Internal Navigation Parameters (AI News)](https://x.com/HiTw93/status/1997286394444837138). They've also squashed a pesky duplicate download bug and fixed chart conversion issues on Linux. We recommend checking out the ProgramMusic app – its hacker-style interface is totally perfect for coding `🚀`.<br/>![AI News: Pake Packaging Tool Interface Display Effect](https://source.hubtoday.app/images/2025/12/news_01kbt362esexyaefqsp7kvkss0.avif)<br/>
+1.  **Li Jigang** is weighing in on the AI usage divide! 🧠 [His perspective](https://x.com/lijigang_com/status/1997613779807523107) (AI News) points out that some people use AI to become shallow, while others leverage its multi-attention heads to challenge cognitive structures. The latter group uses AI for self-reflection, achieving cognitive reconstruction and showcasing the value of deep interaction (AI Daily News). Food for thought! 🤔<br/>
 
-2.  **The CocoIndex Data ETL Framework is here `💡`.**
-    The CocoIndex Data ETL Framework is here `💡`, and it's a game-changer! Designed specifically for RAG scenarios, it boasts [super fast incremental updates (AI News)](https://x.com/shao__meng/status/1997264779539624268). Its Rust core guarantees top-notch performance, while the Python interface keeps things friendly `🔥`. With its modular, building-block-like design, you can expect your knowledge graph construction efficiency to double. <br/>![AI News: CocoIndex Data Processing Flow Diagram](https://source.hubtoday.app/images/2025/12/news_01kbt36b6sf9d8yp3mnzq3842c.avif)<br/>
+2.  **Jensen Huang's early team** showed incredible optimism! 🚀 When NVIDIA was just starting, they failed to develop a gaming chip after investing $5 million. Facing 30-50 competitors, they didn't get discouraged. [They believed instead](https://m.okjike.com/originalPosts/69350afff9f2475875a80cab) (AI News) that "the technology wasn't that hard," so they restarted R&D, embodying an extreme spirit of optimism (AI Daily News). What a mindset! 💪<br/>![AI News: Jensen Huang's early team work photo](https://source.hubtoday.app/images/2025/12/news_01kbwpy05gedctr2cpgb83wga0.avif)<br/>
 
-3.  **Google's Hackathon is dishing out some sweet rewards `🚀`!**
-    Google's Hackathon is dishing out some sweet rewards `🚀`! The Gemini 3 Pro event is giving away $100,000 in [API Credits (AI News Daily)](https://x.com/dotey/status/1997203973959205317), so get your videos submitted before the 12th. Fifty winners will split a $500,000 prize pool, and even beginners can jump in on the action `💡`. See you on Kaggle! <br/>![AI News: Google Hackathon Participation Page Screenshot](https://source.hubtoday.app/images/2025/12/news_01kbt36efweq085ec3fwqevw06.avif)<br/>
-
-4.  **Cursor is rolling out a slick new way to understand code!**
-    Cursor is rolling out a slick new way to understand code! Its seven-step workflow breaks down unfamiliar codebases, with [Ask Mode ensuring security (AI News)](https://x.com/shao__meng/status/1996937541065572669). Plan Mode generates blueprints, and Agent Mode automatically churns out documentation `🔥`. Plus, Claude can even draw architectural diagrams to help you grasp everything.<br/>![AI News: Cursor Code Analysis Workflow Diagram](https://source.hubtoday.app/images/2025/12/news_01kbt36j4cevzv0z344gyxccyc.avif)<br/>
-
-5.  **Anthropic's Hackathon saw over 100 teams duke it out at Slush 2025.**
-    Anthropic's Hackathon saw over 100 teams duke it out at Slush 2025, and [cliccc_ai snatched the championship (AI News)](https://x.com/Lovable/status/1997014478576402938) `🏆`! This AI sales companion syncs with CRM and has already landed its first batch of enterprise clients `💡`. The top five teams also walked away with 30,000 Claude credits.<br/></video><br/>
+3.  **Reddit** is buzzing with talk about AI boosting our ability to discern content density! 🔥 [Users](https://www.reddit.com/r/artificial/comments/1pfu0dl/) (AI News) report that after contrasting AI's single-layer logic, it's now easier to spot deep reasoning versus shallow content. The real competition is shifting to structural complexity, not just aesthetic volume (AI Daily News). Get ready for deeper conversations! 💬<br/>
 
 ---
 
-## **AI News Daily Audio Version**
+## **AI Daily News Audio Version**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **Afterlife Tavern** | 📹 **Douyin** |
 | --- | --- |
-| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Xiaoyuzhou Bar](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Afterlife Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
